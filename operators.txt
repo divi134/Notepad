@@ -1,0 +1,26 @@
+Operators in C
+1.Arithmetic Operators
++, -, *, /, %
+*, /, %
++, -
+5+4/2*3-1
+5*4/3*2%2
+Expression evaluation, Operator Precedence and Associativity
+Left to right
+Right to left
+2+2/2-->
+
+2.Relational or Comparison Operators
+10 > 4-->1
+10 < 4-->0
+10 >= 4-->1
+10 <= 4-->0
+10 == 4-->0
+10 != 4-->1
+Boolean value:
+True-->1
+False-->0
+
+
+
+
